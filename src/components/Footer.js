@@ -9,8 +9,8 @@ function Footer() {
       <div className="col-auto d-flex align-items-center">
         <span>
           Icons:{" "}
-          <a href="https://ppc.lol/XGWWE" target="_blank" rel="noreferrer">
-            icons8.de
+          <a href="https://sumcoin.org" target="_blank" rel="noreferrer">
+            icon
           </a>
         </span>
       </div>
