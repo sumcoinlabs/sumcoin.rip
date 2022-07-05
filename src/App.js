@@ -14,7 +14,7 @@ function App() {
             <div className="row justify-content-center ">
               <div className="col-9 col-sm-6 col-md-5 col-lg-4 col-xl-3">
                 <a
-                  href="https://ppc.lol/dotnet"
+                  href="https://sumcoin.org/"
                   target="_blank"
                   rel="noreferrer"
                 >
