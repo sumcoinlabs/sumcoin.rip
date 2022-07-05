@@ -1,7 +1,7 @@
 {
-  "name": "peercoin.rip",
+  "name": "sumcoin.rip",
   "version": "0.1.0",
-  "homepage": "https://peercoin.rip",
+  "homepage": "https://sumcoin.rip",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
