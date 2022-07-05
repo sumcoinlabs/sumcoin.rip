@@ -1,6 +1,6 @@
 {
   "short_name": "PPC.rip",
-  "name": "Peercoin.rip",
+  "name": "Sumcoin.rip",
   "icons": [
     {
       "src": "favicon.ico",
@@ -15,6 +15,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#3cb054",
+  "theme_color": "#276BCF",
   "background_color": "#000000"
 }
