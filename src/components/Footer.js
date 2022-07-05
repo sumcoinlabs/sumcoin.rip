@@ -16,7 +16,7 @@ function Footer() {
       </div>
       <div className="col-12 col-sm-auto d-flex align-items-center">
         <a
-          href="https://github.com/bananenwilly/peercoin.rip"
+          href="https://github.com/sumcoinlabs/sumcoin.rip"
           target="_blank"
           rel="noreferrer"
         >

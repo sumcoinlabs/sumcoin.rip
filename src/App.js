@@ -20,8 +20,8 @@ function App() {
                 >
                   <img
                     className="img-fluid ppc-logo"
-                    src="assets/img/peercoin.svg"
-                    alt="peercoin logo"
+                    src="assets/img/peercoin.png"
+                    alt="sumcoin logo"
                   />
                 </a>
               </div>
@@ -64,7 +64,7 @@ function App() {
             </div>
             <div className="row pt-3 justify-content-center">
               <div className="col-auto">
-                <h2 className="m0">7th of July 2012</h2>
+                <h2 className="m0">6th of April 2018</h2>
               </div>
             </div>
             <div className="ppc-arrow_down d-none d-lg-block d-xl-block">
