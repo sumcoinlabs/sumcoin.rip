@@ -76,7 +76,7 @@ export default function TimeLine({ orbituaries }) {
           display: "flex",
           padding: "13px",
         }}
-        icon={<img src="../assets/img/peercoin-leaf.svg" alt="peercoin leaf" />}
+        icon={<img src="../assets/img/sumcoin-logo.png" alt="sumcoin logo" />}
       />
     </VerticalTimeline>
   );
